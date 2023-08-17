@@ -1,0 +1,11 @@
+body: #0860d3,#f00bb7
+Area-sms: #13d4b4,#bd17a7
+bot: #0960e4;
+botão: #1789BD,
+
+<!-- Usuario -->
+            <div class="user-user user">
+                <div class="mensagem">
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                </div>
+            </div>
